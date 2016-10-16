@@ -1,4 +1,3 @@
-**Unu Lead Software Architect Challenge**
 # Overview
 This repo contains two main folders.
 _sdd_ contains software design documents for the project.
