@@ -1,0 +1,8 @@
+{
+  "mongodb": {
+    "host": "unu:unu42@ds059316.mlab.com:59316",
+    "database": "heroku_vjx16hwc"
+  },
+  "bookingCost": 30,
+  "gateway": "https://secure-river-76309.herokuapp.com"
+}
